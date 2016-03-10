@@ -1,5 +1,5 @@
 # slack-tac-toe
-A bot for playing tic tac toe games in slack.
+A bot for playing tic tac toe games in slack. Written in an hour and then some for the 3/9/2016 URUG hack night. Not meant for production use, will probably break at 1 million reqs/sec.
 
 Usage:
 
